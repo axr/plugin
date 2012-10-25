@@ -1,0 +1,9 @@
+[submodule "src/3rdparty/firebreath"]
+	path = src/3rdparty/firebreath
+	url = https://github.com/firebreath/FireBreath.git
+[submodule "src/core"]
+	path = src/core
+	url = https://github.com/axr/core.git
+[submodule "common"]
+	path = common
+	url = https://github.com/axr/common.git
