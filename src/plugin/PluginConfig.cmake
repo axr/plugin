@@ -34,7 +34,7 @@ endif ( FB_PLATFORM_ARCH_32 )
 
 # these are the pieces that are relevant to using it from Javascript
 set(ACTIVEX_PROGID "AXRProject.AXR")
-set(MOZILLA_PLUGINID "axr.vg/AXR")
+set(MOZILLA_PLUGINID "axrproject.org/AXR")
 
 # strings
 set(FBSTRING_CompanyName "AXR Project")

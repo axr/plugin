@@ -6,7 +6,7 @@
         <em:name>AXR</em:name>
         <em:version>${FBSTRING_PLUGIN_VERSION}</em:version>
         <!--<em:iconURL></em:iconURL>-->
-        <!--em:updateURL>http://axr.vg/update.rdf</em:updateURL>
+        <!--em:updateURL>http://axrproject.org/update.rdf</em:updateURL>
         <em:updateKey></em:updateKey-->
         <em:unpack>true</em:unpack>
 
@@ -16,7 +16,7 @@
                 <em:name>AXR</em:name>
                 <em:description>The rendering engine that powers the AXR platform.</em:description>
                 <em:creator>AXR Project</em:creator>
-                <em:homepageURL>http://axr.vg</em:homepageURL>
+                <em:homepageURL>http://axrproject.org</em:homepageURL>
             </Description>
         </em:localized>
 
